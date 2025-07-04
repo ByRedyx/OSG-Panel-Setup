@@ -1,7 +1,7 @@
 
-# Actualización automática de GrupoOSG
+# Actualización automática de OSG Panel
 
-Este repositorio gestiona el sistema de actualizaciones automáticas de la aplicación **GrupoOSG**.
+Este repositorio gestiona el sistema de actualizaciones automáticas de la aplicación **OSG Panel**.
 
 Cada vez que se lanza una nueva versión del software, se actualiza un archivo `version.json` que contiene la versión más reciente disponible y un enlace al instalador correspondiente.
 
@@ -16,7 +16,7 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 ```json
 {
   "version": "1.0.0",
-  "url": "https://github.com/ByRedyx/GrupoOSGApp/releases/download/v1.0.0/GrupoOSG_v1.0.0.msi"
+  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v1.0.0/GrupoOSG_v1.0.0.msi"
 }
 ```
 -   `version`: versión más reciente del software (formato semántico).
@@ -27,16 +27,16 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 
 Este archivo está disponible públicamente gracias a **GitHub Pages**:
 
-`https://byredyx.github.io/GrupoOSGApp/version.json` 
+`https://byredyx.github.io/OSG-Panel-Setup/version.json` 
 
 La aplicación WPF accede a esta URL para consultar automáticamente si hay nuevas versiones disponibles.
 
 
 ## 🚀 Cómo lanzar una nueva versión
 
-1.  Crear un nuevo instalador `.msi` de la aplicación GrupoOSG.
+1.  Crear un nuevo instalador `.msi` de la aplicación OSG Panel.
     
-2.  Publicar una nueva [Release](https://github.com/ByRedyx/GrupoOSGApp/releases) con:
+2.  Publicar una nueva [Release](https://github.com/ByRedyx/OSG-Panel-Setup/releases) con:
     
     -   El instalador adjunto
         
@@ -49,7 +49,7 @@ La aplicación WPF accede a esta URL para consultar automáticamente si hay nuev
 
 ## ✅ Repositorio de instalación
 
-Puedes encontrar los instaladores en la sección de [Releases](https://github.com/ByRedyx/GrupoOSGApp/releases).
+Puedes encontrar los instaladores en la sección de [Releases](https://github.com/ByRedyx/OSG-Panel-Setup/releases).
 
 
 ## 🔒 Seguridad
@@ -61,4 +61,4 @@ Para una solución privada o con control de acceso, se recomienda alojar el JSON
 
 ## 💡 Créditos
 
-Sistema de actualización desarrollado por el departamento de IT de **GrupoOSG**.
+Sistema de actualización desarrollado por el departamento de IT de **OSG Panel**.
