@@ -16,7 +16,8 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 ```json
 {
   "version": "1.0.0",
-  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v1.0.0/OSGPanel_Setup_v1.0.0.msi"
+  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v1.0.0/OSGPanel_Setup_v1.0.0.msi",
+  "descripcion": "La nueva versión 1.0.0 trae..."
 }
 ```
 -   `version`: versión más reciente del software (formato semántico).
