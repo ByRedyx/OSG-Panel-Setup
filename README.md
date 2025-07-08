@@ -28,7 +28,7 @@ Al iniciar la aplicación, esta consulta el archivo JSON para comprobar si hay u
 
 Este archivo está disponible públicamente gracias a **GitHub Pages**:
 
-`https://byredyx.github.io/OSG-Panel-Setup/version.json` 
+`[https://byredyx.github.io/OSG-Panel-Setup/version.json](https://byredyx.github.io/OSG-Panel-Setup/version.json)` 
 
 La aplicación WPF accede a esta URL para consultar automáticamente si hay nuevas versiones disponibles.
 
