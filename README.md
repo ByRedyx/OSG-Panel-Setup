@@ -33,21 +33,6 @@ Este archivo está disponible públicamente gracias a **GitHub Pages**:
 La aplicación WPF accede a esta URL para consultar automáticamente si hay nuevas versiones disponibles.
 
 
-## 🚀 Cómo lanzar una nueva versión
-
-1.  Crear un nuevo instalador `.msi` de la aplicación OSG Panel.
-    
-2.  Publicar una nueva [Release](https://github.com/ByRedyx/OSG-Panel-Setup/releases) con:
-    
-    -   El instalador adjunto
-        
-    -   Un nombre de versión como `v1.0.0`
-        
-    -   Descripción de cambios
-        
-3.  Actualizar el archivo `version.json` con la nueva versión y URL.
-
-
 ## ✅ Repositorio de instalación
 
 Puedes encontrar los instaladores en la sección de [Releases](https://github.com/ByRedyx/OSG-Panel-Setup/releases).
