@@ -1,5 +1,5 @@
 {
-  "version": "2.1.2",
-  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v2.1.2/OSGPanel_Setup_v2.1.2.msi",
-  "descripcion": "En la nueva versión 2.1.2 se añade la funcionalidad de la actualización automática, la cual permite que cada 5 segundos se actualice toda la información del programa y no se necesite presionar el botón de actualizar (que ha sido eliminado) para poder ver los cambios."
+  "version": "2.1.4",
+  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v2.1.4/OSGPanel_Setup_v2.1.4.msi",
+  "descripcion": "En la nueva versión 2.1.4 se ha añadido un sonido de aviso para cuando se reciba la notificación de que ha llegado el material que se estaba esperando. También se ha arreglado un error visual que no actualizaba el color al recibirse un artículo."
 }
