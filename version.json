@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
-  "url": "https://github.com/ByRedyx/OSG-Panel-Setup/releases/download/v2.1.4/OSGPanel_Setup_v2.1.4.msi",
-  "descripcion": "En la nueva versión 2.1.4 se ha añadido un sonido de aviso para cuando se reciba la notificación de que ha llegado el material que se estaba esperando. También se ha arreglado un error visual que no actualizaba el color al recibirse un artículo."
+  "version": "3.0.0",
+  "url": "https://github.com/grupoosg-it/Atenea-Setup/releases/download/v3.0.0/Atenea_Setup_v3.0.0.msi",
+  "descripcion": "¡Bienvenidos a Atenea! Hemos renovado OSG Panel con un nuevo nombre, nuevo diseño y servidor propio desde cero.\n\nAhora las alertas se guardan en una base de datos central para poder consultarlas desde cualquier nave.\n\nAdemás, cada trabajador de taller tiene asignado un color distintivo para cuando alguien esté esperando un material concreto."
 }
